@@ -63,7 +63,7 @@ jobs:
           find release -name "*.exe" -o -name "*.dmg" -o -name "*.AppImage" | head -20
 
       - name: Upload Windows artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: win11-widgets-windows
           path: |
@@ -113,7 +113,7 @@ jobs:
         shell: bash
 
       - name: Upload checksums
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: checksums
           path: artifacts/SHA256SUMS.txt
