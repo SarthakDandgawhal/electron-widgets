@@ -1,0 +1,1 @@
+{"version":3,"file":"widgetFactory.d.ts","sourceRoot":"","sources":["widgetFactory.ts"],"names":[],"mappings":"AAAA,OAAO,KAAyB,MAAM,OAAO,CAAC;AAC9C,OAAO,KAAK,EAAE,UAAU,EAAE,WAAW,EAAE,gBAAgB,EAAsB,MAAM,YAAY,CAAC;AAsBhG,wBAAgB,qBAAqB,CAAC,IAAI,EAAE,UAAU,GAAG,KAAK,CAAC,aAAa,CAAC,WAAW,CAAC,CAExF;AAED,wBAAgB,mBAAmB,CAAC,IAAI,EAAE,UAAU,GAAG,gBAAgB,CAEtE"}
